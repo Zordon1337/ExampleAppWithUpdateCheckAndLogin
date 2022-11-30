@@ -15,7 +15,8 @@
 6. [Optional] change DB name
 7. Login to your MySql and create database named ExampleAppWithLoginDB if you changed database name you must create database with same name
 8. Import DataBase/users.sql
-9. Open app and try to login with admin account (if you don't know password read DataBase/Admin user Password.txt
+9. Start PHP/Apache server
+10. Open app and try to login with admin account (if you don't know password read DataBase/Admin user Password.txt
 If you have any problems Create issue and i will try to help you
 ```
 
