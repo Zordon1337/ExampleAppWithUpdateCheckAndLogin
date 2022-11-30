@@ -1,0 +1,15 @@
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\bin\Release\ExampleAppWithLogin.exe.config
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\bin\Release\ExampleAppWithLogin.exe
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\bin\Release\ExampleAppWithLogin.pdb
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\obj\Release\ExampleAppWithLogin.Form1.resources
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\obj\Release\ExampleAppWithLogin.Properties.Resources.resources
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\obj\Release\ExampleAppWithLogin.csproj.GenerateResource.cache
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\obj\Release\ExampleAppWithLogin.csproj.CoreCompileInputs.cache
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\obj\Release\ExampleAppWithLogin.csproj.CopyComplete
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\obj\Release\ExampleAppWithLogin.exe
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\obj\Release\ExampleAppWithLogin.pdb
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\bin\Release\MetroFramework.Design.dll
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\bin\Release\MetroFramework.dll
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\bin\Release\MetroFramework.Fonts.dll
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\obj\Release\ExampleAppWithLogin.csproj.AssemblyReference.cache
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\obj\Release\ExampleAppWithLogin.Form2.resources

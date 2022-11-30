@@ -1,0 +1,12 @@
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\bin\Debug\ExampleAppWithLogin.exe.config
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\bin\Debug\ExampleAppWithLogin.exe
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\bin\Debug\ExampleAppWithLogin.pdb
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\bin\Debug\MaterialSkin.dll
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\obj\Debug\ExampleAppWithLogin.csproj.AssemblyReference.cache
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\obj\Debug\ExampleAppWithLogin.Form1.resources
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\obj\Debug\ExampleAppWithLogin.Properties.Resources.resources
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\obj\Debug\ExampleAppWithLogin.csproj.GenerateResource.cache
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\obj\Debug\ExampleAppWithLogin.csproj.CoreCompileInputs.cache
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\obj\Debug\ExampleAppWithLogin.csproj.CopyComplete
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\obj\Debug\ExampleAppWithLogin.exe
+C:\Users\alexb\source\repos\ExampleAppWithLogin\ExampleAppWithLogin\obj\Debug\ExampleAppWithLogin.pdb
